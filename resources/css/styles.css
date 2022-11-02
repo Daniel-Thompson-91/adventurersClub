@@ -44,7 +44,6 @@ header {
   justify-content: flex-end;
   align-items: center;
   background-color: var(--dark-green);
-  opacity: 90;
   position: fixed;
   top: 0;
   right: 0;
